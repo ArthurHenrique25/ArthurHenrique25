@@ -1,4 +1,4 @@
-## Hi there i am ArthurHenrique25 👋
+## Hi there i am ArthurHenrique 👋
 
 - 🔭 I’m currently working on front-end 
 - 🌱 I’m currently learning Angular 
